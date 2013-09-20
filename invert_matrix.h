@@ -1,5 +1,5 @@
-#ifndef __INVEERT_MATRIX__
-#define __INVEERT_MATRIX__
+#ifndef __INVERT_MATRIX__
+#define __INVERT_MATRIX__
 
 #include <boost/numeric/ublas/matrix.hpp>
 #include <boost/numeric/ublas/lu.hpp>
